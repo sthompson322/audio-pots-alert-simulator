@@ -1,0 +1,212 @@
+[
+  {
+    "timestamp": 1000,
+    "heartRate": 83,
+    "hrShift": 50,
+    "hydration": 0.73,
+    "posture": "laying",
+    "activity": "none",
+    "location": "home",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 20000,
+    "heartRate": 191,
+    "hrShift": -68,
+    "hydration": 0.38,
+    "posture": "sitting",
+    "activity": "walking",
+    "location": "school",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 40000,
+    "heartRate": 61,
+    "hrShift": 96,
+    "hydration": 0.84,
+    "posture": "standing",
+    "activity": "running",
+    "location": "gym",
+    "fainting": false,
+    "conscious": false
+  },
+  {
+    "timestamp": 60000,
+    "heartRate": 112,
+    "hrShift": 37,
+    "hydration": 0.21,
+    "posture": "sitting",
+    "activity": "none",
+    "location": "work",
+    "fainting": true,
+    "conscious": false
+  },
+  {
+    "timestamp": 80000,
+    "heartRate": 141,
+    "hrShift": -52,
+    "hydration": 0.65,
+    "posture": "laying",
+    "activity": "walking",
+    "location": "gym",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 100000,
+    "heartRate": 178,
+    "hrShift": -9,
+    "hydration": 0.89,
+    "posture": "sittng",
+    "activity": "driving",
+    "location": "home",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 120000,
+    "heartRate": 25,
+    "hrShift": 75,
+    "hydration": 0.58,
+    "posture": "laying",
+    "activity": "none",
+    "location": "gym",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 140000,
+    "heartRate": 118,
+    "hrShift": -1,
+    "hydration": 0.46,
+    "posture": "sitting",
+    "activity": "driving",
+    "location": "school",
+    "fainting": true,
+    "conscious": false
+  },
+  {
+    "timestamp": 160000,
+    "heartRate": 104,
+    "hrShift": -4,
+    "hydration": 0.75,
+    "posture": "standing",
+    "activity": "none",
+    "location": "work",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 180000,
+    "heartRate": 146,
+    "hrShift": 34,
+    "hydration": 0.63,
+    "posture": "laying",
+    "activity": "walking",
+    "location": "home",
+    "fainting": true,
+    "conscious": true
+  },
+  {
+    "timestamp": 200000,
+    "heartRate": 89,
+    "hrShift": 99,
+    "hydration": 0.32,
+    "posture": "sitting",
+    "activity": "running",
+    "location": "work",
+    "fainting": false,
+    "conscious": false
+  },
+  {
+    "timestamp": 220000,
+    "heartRate": 172,
+    "hrShift": -48,
+    "hydration": 0.4,
+    "posture": "laying",
+    "activity": "none",
+    "location": "gym",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 240000,
+    "heartRate": 33,
+    "hrShift": 82,
+    "hydration": 0.59,
+    "posture": "sitting",
+    "activity": "none",
+    "location": "school",
+    "fainting": true,
+    "conscious": false
+  },
+  {
+    "timestamp": 260000,
+    "heartRate": 76,
+    "hrShift": 7,
+    "hydration": 0.97,
+    "posture": "standing",
+    "activity": "walking",
+    "location": "work",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 280000,
+    "heartRate": 148,
+    "hrShift": -70,
+    "hydration": 0.88,
+    "posture": "laying",
+    "activity": "none",
+    "location": "home",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 300000,
+    "heartRate": 122,
+    "hrShift": -38,
+    "hydration": 0.26,
+    "posture": "sitting",
+    "activity": "driving",
+    "location": "gym",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 320000,
+    "heartRate": 98,
+    "hrShift": 16,
+    "hydration": 0.49,
+    "posture": "standing",
+    "activity": "running",
+    "location": "school",
+    "fainting": true,
+    "conscious": false
+  },
+  {
+    "timestamp": 340000,
+    "heartRate": 134,
+    "hrShift": 19,
+    "hydration": 0.45,
+    "posture": "laying",
+    "activity": "walking",
+    "location": "home",
+    "fainting": false,
+    "conscious": true
+  },
+  {
+    "timestamp": 360000,
+    "heartRate": 65,
+    "hrShift": 40,
+    "hydration": 0.69,
+    "posture": "sitting",
+    "activity": "driving",
+    "location": "school",
+    "fainting": true,
+    "conscious": false
+  }
+]
+  
